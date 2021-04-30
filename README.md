@@ -9,4 +9,5 @@ Andres-Hernandez-Mata/Andres-Hernandez-Mata is a ✨ special ✨ repository beca
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=Andres-Hernandez-Mata)
+![Visitas](https://komarev.com/ghpvc/?username=Andres-Hernandez-Mata&logo=GitHub&label=GitHub%20Visits&color=336699&logoColor=white&style=flat-square)
+
