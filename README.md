@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/hackeando.uanl.mx">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/andreshernandezmata">
+<a href="https://www.linkedin.com/in/andreshernandezmata/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:andreshernandezmta@gmail.com">
