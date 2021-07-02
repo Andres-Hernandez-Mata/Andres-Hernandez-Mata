@@ -6,7 +6,7 @@
 <p>💞️ La meta es ser experto en todas las áreas de la programación pero enfocarme en la seguridad informática</p>
 <a href="https://www.udemy.com/user/andres-hernandez-mata/">@Andres-Hernandez-Mata<a/></p>
 
-## Lenguajes de Programación
+## Tecnologías
 <a href="#">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
