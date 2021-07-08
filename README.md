@@ -28,7 +28,10 @@
 <a href="#">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </a>
-
+<a href="#">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+</a>
+	
 ## Estadísticas de Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andres-Hernandez-Mata&theme=default&show_icons=true&count_private=true&hide=issues&line_height=24">  
