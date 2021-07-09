@@ -31,7 +31,10 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
-	
+<a href="#">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</a>
+		
 ## Estadísticas de Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andres-Hernandez-Mata&theme=default&show_icons=true&count_private=true&hide=issues&line_height=24">  
