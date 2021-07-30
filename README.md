@@ -43,6 +43,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 		
 ## Estadísticas de Github
 <p align="center">
