@@ -46,7 +46,10 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
-		
+<a href="#">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+</a>
+
 ## Estadísticas de Github
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andres-Hernandez-Mata&theme=default&show_icons=true&count_private=true&hide=issues&line_height=24">  
