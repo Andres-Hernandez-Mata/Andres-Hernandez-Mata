@@ -55,6 +55,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
 
 ## Estadísticas de Github
 <p align="center">
