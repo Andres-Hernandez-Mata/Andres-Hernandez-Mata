@@ -49,6 +49,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+</a>
 
 ## Estadísticas de Github
 <p align="center">
