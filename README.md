@@ -4,7 +4,6 @@
 <p>:computer: Tengo alrededor de 3 años de experiencia laboral como desarrollador para sistemas empresariales</p>
 <p>:blue_book: El objetivo en mente es introducirme en el área de enseñanza en linea</p>
 <p>:gem: La meta es ser experto en todas las áreas de la programación pero enfocarme en la seguridad informática</p>
-<!--<a href="https://www.udemy.com/user/andres-hernandez-mata/">@Andres-Hernandez-Mata<a/></p>-->
 
 ## Tecnologías
 <a href="#">
@@ -24,6 +23,9 @@
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -78,6 +80,9 @@
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
 
 ## Estadísticas de Github
