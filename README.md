@@ -99,6 +99,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</a>
 
 ## Estadísticas de Github
 <p align="center">
