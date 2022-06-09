@@ -153,6 +153,9 @@
 <a href="#">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+</a>
 
 ## Estadísticas de Github
 <img src="https://github-readme-stats.vercel.app/api?username=Andres-Hernandez-Mata&theme=default&show_icons=true&count_private=true&hide=issues&line_height=24"> 
