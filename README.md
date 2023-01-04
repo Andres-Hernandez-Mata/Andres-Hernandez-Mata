@@ -168,7 +168,7 @@
 <a href="https://www.udemy.com/user/andres-hernandez-mata/">
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/hackeando.uanl.mx">
+<a href="https://www.facebook.com/hackeando.com.mx/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/andreshernandezmata/">
